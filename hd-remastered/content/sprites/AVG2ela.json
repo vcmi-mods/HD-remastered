@@ -1,0 +1,80 @@
+{
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "0_0.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "0_1.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "0_2.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "0_3.png"
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "0_4.png"
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "0_5.png"
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "0_6.png"
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "0_7.png"
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "0_8.png"
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "0_9.png"
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "0_10.png"
+        },
+        {
+            "group": 0,
+            "frame": 11,
+            "file": "0_11.png"
+        },
+        {
+            "group": 0,
+            "frame": 12,
+            "file": "0_12.png"
+        },
+        {
+            "group": 0,
+            "frame": 13,
+            "file": "0_13.png"
+        },
+        {
+            "group": 0,
+            "frame": 14,
+            "file": "0_14.png"
+        }
+    ],
+    "basepath": "AVG2ela/"
+}

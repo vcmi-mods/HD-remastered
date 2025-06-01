@@ -1,0 +1,25 @@
+{
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "0_0.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "0_1.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "0_2.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "0_3.png"
+        }
+    ],
+    "basepath": "RanNum2/"
+}
