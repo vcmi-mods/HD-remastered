@@ -2,3 +2,11 @@ Heroes III HD Edition Remastered
 
 A visual enhancement mod for Heroes of Might and Magic III, based on the ERA HD Edition.
 This mod brings high-resolution 32-bit graphics to the game.
+
+
+TODO: 
+1) Add missing heroes on horses
+2) Add missing WoG fix HD files
+
+
+This repository contains few scripts which where used to make this port possible. Including custom def2json with export option --hdremaster.
