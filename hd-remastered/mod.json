@@ -18,8 +18,13 @@
 	},
 	"softDepends" : [
 		"hota.heroes3DataPatch",
+		"wake-of-gods.animatedTrees",
 		"wake-of-gods.heroes3datapatch",
 		"wake-of-gods.heroes3datapatch.heroes3datapatchera",
+		"wake-of-gods.wogGraphicFix.wf_animatedTrees",
+		"wake-of-gods.wogGraphicFix.wf_artifacts",
+		"wake-of-gods.wogGraphicFix.wf_h3creatures",
+		"wake-of-gods.wogGraphicFix.wf_mapObjects",
 		"wake-of-gods.wogGraphicFix.wf_heroes3DataPatch"
 	],
 	"czech" : {
