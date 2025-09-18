@@ -6,15 +6,22 @@
 	"contact" : "http://wforum.heroes35.net/showthread.php?tid=5821",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.1",
+	"version" : "0.2",
 	"changelog" : 
 	{
+		"0.2"  : [ "Added softdepencies" ],
 		"0.1"  : [ "Initial port of 0.7.7.6 without few files and just for base game" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.6.0"
 	},
+	"softDepends" : [
+		"hota.heroes3DataPatch",
+		"wake-of-gods.heroes3datapatch",
+		"wake-of-gods.heroes3datapatch.heroes3datapatchera",
+		"wake-of-gods.wogGraphicFix.wf_heroes3DataPatch"
+	],
 	"czech" : {
 		"name" : "Heroes III HD Edition Remastered",
 		"description" : "Přidává 32bitovou grafiku ve vysokém rozlišení z modu ERA HD Edition, včetně vylepšených prvků mapy dobrodružství a uživatelského rozhraní."
