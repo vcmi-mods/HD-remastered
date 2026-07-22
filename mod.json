@@ -31,22 +31,37 @@
 	],
 	"czech" : {
 		"name" : "Heroes III HD Edition Remastered",
-		"description" : "Přidává 32bitovou grafiku ve vysokém rozlišení z modu ERA HD Edition, včetně vylepšených prvků mapy dobrodružství a uživatelského rozhraní."
+		"description" : "Přidává 32bitovou grafiku ve vysokém rozlišení z modu ERA HD Edition, včetně vylepšených prvků mapy dobrodružství a uživatelského rozhraní.",
+		"translations" : [
+			"translation/czech.json"
+		]
 	},
 	"polish" : {
 		"name" : "Heroes III HD Edition Remastered",
-		"description" : "Dodaje 32-bitową grafikę w wysokiej rozdzielczości z moda ERA HD Edition, w tym ulepszone elementy mapy przygody i interfejsu użytkownika."
+		"description" : "Dodaje 32-bitową grafikę w wysokiej rozdzielczości z moda ERA HD Edition, w tym ulepszone elementy mapy przygody i interfejsu użytkownika.",
+		"translations" : [
+			"translation/polish.json"
+		]
 	},
 	"german" : {
 		"name" : "Heroes III HD Edition Remastered",
-		"description" : "Fügt 32-Bit-Grafiken in hoher Auflösung aus der ERA HD Edition hinzu, einschließlich verbesserter Abenteuerkarten- und Interface-Elemente."
+		"description" : "Fügt 32-Bit-Grafiken in hoher Auflösung aus der ERA HD Edition hinzu, einschließlich verbesserter Abenteuerkarten- und Interface-Elemente.",
+		"translations" : [
+			"translation/german.json"
+		]
 	},
 	"ukrainian" : {
 		"name" : "Heroes III HD Edition Remastered",
-		"description" : "Додає 32-бітну графіку у високій роздільній здатності з моду ERA HD Edition, включаючи покращені елементи карти пригод і інтерфейсу."
+		"description" : "Додає 32-бітну графіку у високій роздільній здатності з моду ERA HD Edition, включаючи покращені елементи карти пригод і інтерфейсу.",
+		"translations" : [
+			"translation/ukrainian.json"
+		]
 	},
 	"russian" : {
 		"name" : "Heroes III HD Edition Remastered",
-		"description" : "Добавляет 32-битную графику в высоком разрешении из мода ERA HD Edition, включая улучшенные элементы карты приключений и интерфейса."
+		"description" : "Добавляет 32-битную графику в высоком разрешении из мода ERA HD Edition, включая улучшенные элементы карты приключений и интерфейса.",
+		"translations" : [
+			"translation/russian.json"
+		]
 	}
 }
